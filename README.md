@@ -1,4 +1,4 @@
-CS597 - Classification of Cognitive States Using EEG Signals: Impasse, Aha!, Uncertainty
+**CS597 - Classification of Cognitive States Using EEG Signals: Impasse, Aha!, Uncertainty**
 
 By Noviya Balasubramanian (A20541236)
 Under the guidance of:
